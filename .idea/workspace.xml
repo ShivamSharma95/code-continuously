@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36945e61-c4b9-4d2d-8fb1-0a8b13bcfe41" name="Changes" comment="">
+    <list default="true" id="36945e61-c4b9-4d2d-8fb1-0a8b13bcfe41" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/src/MinimumTimeToMakeRopeColorful.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/production/Test/AddBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/production/Test/AddBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/production/Test/SearchInRotatedSortedArray$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/production/Test/SearchInRotatedSortedArray$Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,8 @@
     "Application.MakeArrayElementToZero.executor": "Run",
     "Application.MaximumNumberOfDistinctElementAfterOperation.executor": "Debug",
     "Application.MergeSort.executor": "Run",
+    "Application.MinimumTimeToMakeRopeColorful (1).executor": "Run",
+    "Application.MinimumTimeToMakeRopeColorful.executor": "Debug",
     "Application.NQueen.executor": "Run",
     "Application.NumberOfBeams.executor": "Run",
     "Application.PartitionArrayAccordingToPivot (1).executor": "Debug",
@@ -63,7 +67,7 @@
     "Application.ReverseLinkedList.executor": "Debug",
     "Application.RotateList.executor": "Run",
     "Application.ScoreOfString.executor": "Debug",
-    "Application.SearchInRotatedSortedArray.executor": "Run",
+    "Application.SearchInRotatedSortedArray.executor": "Debug",
     "Application.SetMatrixZeroes.executor": "Run",
     "Application.SnakeInMatrix.executor": "Debug",
     "Application.SpiralOrder.executor": "Run",
@@ -74,6 +78,8 @@
     "Application.ZigZagConversion.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
@@ -99,16 +105,7 @@
       <recent name="C:\Users\ShivamSharma\workspace\shivam\workspace\Test\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchInRotatedSortedArray">
-    <configuration name="BinaryTreePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="ms-11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="BinaryTreePath" />
-      <module name="Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MinimumTimeToMakeRopeColorful (1)">
     <configuration name="HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="ms-11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -118,10 +115,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MinimumTimeToMakeRopeColorful (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="ms-11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <option name="MAIN_CLASS_NAME" value="MinimumTimeToMakeRopeColorful" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumTimeToMakeRopeColorful" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="ms-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MinimumTimeToMakeRopeColorful" />
       <module name="Test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -161,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumTimeToMakeRopeColorful (1)" />
+        <item itemvalue="Application.MinimumTimeToMakeRopeColorful" />
         <item itemvalue="Application.SearchInRotatedSortedArray" />
         <item itemvalue="Application.HouseRobber" />
         <item itemvalue="Application.TheNumberOfBeautifulSubsets" />
-        <item itemvalue="Application.BinaryTreePath" />
-        <item itemvalue="Application.Permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -210,12 +216,20 @@
       <workItem from="1761930403423" duration="355000" />
       <workItem from="1761930811364" duration="2762000" />
       <workItem from="1762010816650" duration="9347000" />
-      <workItem from="1762077840083" duration="536000" />
+      <workItem from="1762077840083" duration="2484000" />
+      <workItem from="1762161794983" duration="2095000" />
+      <workItem from="1762185045871" duration="597000" />
+      <workItem from="1762260191408" duration="5000" />
+      <workItem from="1762265211719" duration="654000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -438,6 +452,14 @@
           <url>file://$PROJECT_DIR$/src/SearchInRotatedSortedArray.java</url>
           <line>28</line>
           <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MinimumTimeToMakeRopeColorful.java</url>
+          <line>12</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="117" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
