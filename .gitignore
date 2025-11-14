@@ -1,0 +1,50 @@
+# Node / Angular
+node_modules/
+dist/
+out/
+build/
+tmp/
+temp/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Environment / config
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Generated files
+*.bak
+*.swp
+*.swo
+
+# Coverage
+coverage/
+coverage-final.json
+lcov.info
+
+# Angular build
+.angular/
+browser/
