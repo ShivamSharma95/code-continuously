@@ -4,7 +4,6 @@ public class AddBinary {
         System.out.println(addBinary("11", "1"));
     }
 
-
     public static String addBinary(String a, String b) {
         int ai = a.length() - 1;
         int bi = b.length() - 1;
