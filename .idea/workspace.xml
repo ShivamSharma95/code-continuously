@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36945e61-c4b9-4d2d-8fb1-0a8b13bcfe41" name="Changes" comment="fix">
-      <change afterPath="$PROJECT_DIR$/src/MinimumTimeToMakeRopeColorful.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/production/Test/AddBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/production/Test/AddBinary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/production/Test/SearchInRotatedSortedArray$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/production/Test/SearchInRotatedSortedArray$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumTimeToMakeRopeColorful.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimumTimeToMakeRopeColorful.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,72 +31,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BinaryTreePath.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.Candy.executor": "Run",
-    "Application.CheckIfDigitsAreEqualInStringAfterOperation1.executor": "Run",
-    "Application.ConvertSortedArrayToBinarySearch.executor": "Debug",
-    "Application.Divide.executor": "Debug",
-    "Application.ExcelSheetColumnTitle.executor": "Debug",
-    "Application.GenerateParantheses.executor": "Run",
-    "Application.GroupAnagrams.executor": "Run",
-    "Application.HouseRobber.executor": "Run",
-    "Application.IsValidSudoku.executor": "Run",
-    "Application.IsoMorphicString.executor": "Debug",
-    "Application.JumpGame.executor": "Run",
-    "Application.LastStoneWeight.executor": "Run",
-    "Application.LongestBalancedsubArray2.executor": "Run",
-    "Application.MakeArrayElementToZero.executor": "Run",
-    "Application.MaximumNumberOfDistinctElementAfterOperation.executor": "Debug",
-    "Application.MergeSort.executor": "Run",
-    "Application.MinimumTimeToMakeRopeColorful (1).executor": "Run",
-    "Application.MinimumTimeToMakeRopeColorful.executor": "Debug",
-    "Application.NQueen.executor": "Run",
-    "Application.NumberOfBeams.executor": "Run",
-    "Application.PartitionArrayAccordingToPivot (1).executor": "Debug",
-    "Application.PartitionArrayAccordingToPivot.executor": "Debug",
-    "Application.Permutation.executor": "Debug",
-    "Application.PowerXRaisedToN.executor": "Run",
-    "Application.RemoveLetterToEqualizeFrequency.executor": "Run",
-    "Application.RemoveNthNode.executor": "Run",
-    "Application.ReshapeMatrix.executor": "Run",
-    "Application.ReverseLinkedList.executor": "Debug",
-    "Application.RotateList.executor": "Run",
-    "Application.ScoreOfString.executor": "Debug",
-    "Application.SearchInRotatedSortedArray.executor": "Debug",
-    "Application.SetMatrixZeroes.executor": "Run",
-    "Application.SnakeInMatrix.executor": "Debug",
-    "Application.SpiralOrder.executor": "Run",
-    "Application.Subsets.executor": "Run",
-    "Application.TheNumberOfBeautifulSubsets.executor": "Run",
-    "Application.ToeplitzMatrix.executor": "Run",
-    "Application.Unnamed.executor": "Run",
-    "Application.ZigZagConversion.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ShivamSharma/workspace/shivam/workspace/Test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/ShivamSharma/workspace/shivam/workspace/Test/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BinaryTreePath.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Candy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckIfDigitsAreEqualInStringAfterOperation1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertSortedArrayToBinarySearch.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Divide.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ExcelSheetColumnTitle.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.GenerateParantheses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HouseRobber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsValidSudoku.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsoMorphicString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.JumpGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LastStoneWeight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestBalancedsubArray2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MakeArrayElementToZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumNumberOfDistinctElementAfterOperation.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumTimeToMakeRopeColorful (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumTimeToMakeRopeColorful.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NQueen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfBeams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PartitionArrayAccordingToPivot (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PartitionArrayAccordingToPivot.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Permutation.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PowerXRaisedToN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveLetterToEqualizeFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveNthNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReshapeMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseLinkedList.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RotateList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScoreOfString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SearchInRotatedSortedArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SetMatrixZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SnakeInMatrix.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SpiralOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subsets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TheNumberOfBeautifulSubsets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ToeplitzMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZigZagConversion.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ShivamSharma/workspace/shivam/workspace/Test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ShivamSharma/workspace/shivam/workspace/Test/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ShivamSharma\workspace\shivam\workspace\Test\src" />
@@ -221,6 +219,8 @@
       <workItem from="1762185045871" duration="597000" />
       <workItem from="1762260191408" duration="5000" />
       <workItem from="1762265211719" duration="654000" />
+      <workItem from="1762333611785" duration="1207000" />
+      <workItem from="1763056035747" duration="600000" />
     </task>
     <servers />
   </component>

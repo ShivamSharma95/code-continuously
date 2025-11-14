@@ -11,6 +11,12 @@ public class MinimumTimeToMakeRopeColorful {
 
         private int minCost(String colors, int[] neededTime, int start) {
             if (start >= neededTime.length - 1) return 0;
+            int maxSum = 0;
+            int minElement = 0;
+            while (colors.charAt(start) == colors.charAt(start + 1)) {
+                minElement = Math.min(minElement, neededTime[start]);
+                maxSum = neededTime[start] +neededTime[start + 1];
+            }
             int sum = minCost(colors, neededTime, start + 1);
             if (colors.charAt(start) == colors.charAt(start + 1)) {
                 return sum + Math.min(neededTime[start], neededTime[start + 1]);
