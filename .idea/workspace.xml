@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36945e61-c4b9-4d2d-8fb1-0a8b13bcfe41" name="Changes" comment="fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinimumTimeToMakeRopeColorful.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimumTimeToMakeRopeColorful.java" afterDir="false" />
-    </list>
+    <list default="true" id="36945e61-c4b9-4d2d-8fb1-0a8b13bcfe41" name="Changes" comment="fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
