@@ -2,8 +2,8 @@ import java.util.Arrays;
 
 public class HouseRobber {
     public static void main(String[] args) {
-//        System.out.println(new Solution().rob(new int[]{2, 7, 9, 3, 1})); // 12
-//        System.out.println(new Solution().rob(new int[]{2, 1, 1, 2})); //4
+        System.out.println(new Solution().rob(new int[]{2, 7, 9, 3, 1})); // 12
+        System.out.println(new Solution().rob(new int[]{2, 1, 1, 2})); //4
         System.out.println(new Solution().rob(new int[]{1, 2, 1, 1}));//3
         System.out.println(new Solution().rob(new int[]{4, 1, 2, 7, 5, 3, 1})); //14
         System.out.println(new Solution().rob(new int[]{82, 217, 170, 215, 153, 55, 185, 55, 185, 232, 69, 131, 130, 102})); //1082
@@ -15,9 +15,7 @@ public class HouseRobber {
             if (nums.length == 0) return 0;
             if (nums.length == 1) return nums[0];
             int[] memo = new int[nums.length + 3];
-            int first = rob(nums, 0, 0, memo);
-            int second = rob(nums, 1, 0, memo);
-            return Math.max(first, second);
+            return rob(nums, 0, 0, memo);
         }
 
         public int rob(int[] nums, int i, int sum, int[] memo) {
@@ -25,13 +23,13 @@ public class HouseRobber {
                 return memo[i];
             }
             if (i >= nums.length) {
-                return 0;
+                return sum;
             }
-            int first = nums[i] + rob(nums, i + 2, sum, memo);
-            int second = rob(nums, i + 1, sum, memo);
-            int max = Math.max(first, second);
-            memo[i] = max;
-            return max;
+            sum += nums[i];
+            var first = rob(nums, i + 2, sum, memo);
+            var second = rob(nums, i + 1, sum, memo);
+            memo[i] = Math.max(first, second);
+            return memo[i];
         }
     }
 }
