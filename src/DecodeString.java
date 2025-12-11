@@ -8,9 +8,6 @@ public class DecodeString {
     static class Solution {
         public String decodeString(String s) {
             int i = 0, j = 1;
-//            for(i) {
-
-//            }
             return null;
         }
     }

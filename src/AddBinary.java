@@ -8,7 +8,6 @@ public class AddBinary {
         int ai = a.length() - 1;
         int bi = b.length() - 1;
         int carry = 0;
-
         StringBuilder result;
         for(result = new StringBuilder(); ai >= 0 || bi >= 0; --bi) {
             int sum = (ai < 0 ? 0 : Character.getNumericValue(a.charAt(ai))) + (bi < 0 ? 0 : Character.getNumericValue(b.charAt(bi))) + carry;
@@ -22,14 +21,12 @@ public class AddBinary {
                 result.append(sum);
                 carry = 0;
             }
-
             --ai;
         }
 
         if (carry == 1) {
             result.insert(0, carry);
         }
-
         return result.toString();
     }
 }
