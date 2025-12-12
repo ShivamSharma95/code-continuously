@@ -15,10 +15,14 @@ This repository uses Java as the primary programming language.
 
 ## 🔗 LeetCode Profile
 
-Add your profile link here:
-
 ```
 https://leetcode.com/u/itsshivam95/
+```
+
+## 🔗 Portfolio
+
+```
+www.itsshivam.net
 ```
 
 Happy coding! 💻🔥
