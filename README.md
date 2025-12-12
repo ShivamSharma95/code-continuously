@@ -9,6 +9,10 @@ A clean and organized collection of solutions to various LeetCode problems. This
 * Maintain a consistent record of solved problems
 * Create a reference base for interviews and practice
 
+## 🛠 Languages Used
+
+This repository uses Java as the primary programming language.
+
 ## 🔗 LeetCode Profile
 
 Add your profile link here:
