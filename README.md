@@ -18,6 +18,6 @@ This repository uses Java as the primary programming language.
 
 
 ## 🔗 Portfolio
-[View My Portfolio](www.itsshivam.net)
+[View My Portfolio](https://www.itsshivam.net)
 
 Happy coding! 💻🔥
