@@ -31,9 +31,7 @@ public class Graph {
         for(int[] dg : directedGraph) {
             System.out.println(Arrays.toString(dg));
         }
-
         System.out.println("Un Directed Graph");
-
         for(int[] udg : unDirectedGraph) {
             System.out.println(Arrays.toString(udg));
         }
