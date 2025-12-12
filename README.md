@@ -14,6 +14,7 @@ A clean and organized collection of solutions to various LeetCode problems. This
 This repository uses Java as the primary programming language.
 
 ## 🔗 LeetCode Profile
+[View My Leetcode Profile](https://leetcode.com/u/itsshivam95/)
 
 ```
 [View My Leetcode Profile](https://leetcode.com/u/itsshivam95/)
