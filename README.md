@@ -16,14 +16,8 @@ This repository uses Java as the primary programming language.
 ## 🔗 LeetCode Profile
 [View My Leetcode Profile](https://leetcode.com/u/itsshivam95/)
 
-```
-[View My Leetcode Profile](https://leetcode.com/u/itsshivam95/)
-```
 
 ## 🔗 Portfolio
-
-```
 [View My Portfolio](www.itsshivam.net)
-```
 
 Happy coding! 💻🔥
